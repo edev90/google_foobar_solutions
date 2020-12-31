@@ -1,4 +1,7 @@
 
+# You can find the full explanation for this solution on my blog:
+# https://blog.everythingdev.com/2020/12/google-foobar-please-pass-coded-messages.html
+
 def solution(l):
     lLen = len(l)
     max = 1 << lLen
